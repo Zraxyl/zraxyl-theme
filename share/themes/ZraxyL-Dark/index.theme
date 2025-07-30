@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=ZraxyL-Dark
+Comment=Dark ZraxyL GTK theme, based on Graphite GTK theme, Mod by, Joe < ZraxyL Contributor>
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=ZraxyL-Dark
+IconTheme=Reversal-cyan-dark
+MetacityTheme=ZraxyL-Dark/
+ButtonLayout=close,minimize,maximize:menu
